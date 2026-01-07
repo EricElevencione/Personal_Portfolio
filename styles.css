@@ -410,10 +410,6 @@ button {
     border-radius: var(--radius-lg);
 }
 
-font-weight: 600;
-box-shadow: var(--shadow-xl);
-}
-
 .about-text h3 {
     font-size: 1.5rem;
     font-weight: 700;
